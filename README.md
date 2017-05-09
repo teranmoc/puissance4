@@ -7,7 +7,7 @@ Fichier mis à jour le 28 mai 2014
 
 Version actuelle du programme : 1.5
 
-## Détails du projets :
+## Détails du projet :
 Le programme est composée de 3 classes :
 - Classe Jeu : gère le jeu (placement, suppression de pion, rotation, ...) et le MinMax
 - Classe Joueur : gère le joueur et ses paramètres (nom, identifiant, type, niveau (si IA) et score)
