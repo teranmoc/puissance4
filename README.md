@@ -1,23 +1,23 @@
-Projet Puissance 4
+# Projet Puissance 4
 Développé par Jérémie Décome
 Licence 2 Informatique - CERI Avignon
 Groupe TD1/TP2
 Fichier mis à jour le 28 mai 2014
 Version actuelle du programme : 1.5
 
-Détails du projets :
+## Détails du projets :
 Le programme est composée de 3 classes :
 - Classe Jeu : gère le jeu (placement, suppression de pion, rotation, ...) et le MinMax
 - Classe Joueur : gère le joueur et ses paramètres (nom, identifiant, type, niveau (si IA) et score)
 - Classe Fichier : gère l'accès en lecture ou écriture du fichier (sert d'interface entre le programme et le fichier)
 
-Fichiers :
+## Fichiers :
 - main.cpp : point d'entrée du programme. Permet le déroulement du jeu
 - commun.h : contient les librairies communes à toutes les classes
 - makefile : permet la compilation du projet et l'édition de lien avec les 5 classes
 - save.txt : fichier de sauvegarde des options et du jeu
 
-Situation au 28 mai 2014 - Rendu final
+## Situation au 28 mai 2014 - Rendu final
 Les classes Pion, Options et IA ont été supprimées car inutiles.
 Nettoyage du code source
 Amélioration du confort de jeu
