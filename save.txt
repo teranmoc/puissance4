@@ -1,0 +1,7 @@
+lignes=14
+colonnes=9
+rotation=O
+jeuRotation=N
+suppressionPion=O
+nLignes=1
+mPions=4
