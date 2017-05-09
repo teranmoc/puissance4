@@ -1,8 +1,10 @@
 # Projet Puissance 4
 Développé par Jérémie Décome
+
 Licence 2 Informatique - CERI Avignon
-Groupe TD1/TP2
+
 Fichier mis à jour le 28 mai 2014
+
 Version actuelle du programme : 1.5
 
 ## Détails du projets :
